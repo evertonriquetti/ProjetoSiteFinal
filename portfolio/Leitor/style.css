@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-content: center;
+}
+
+.titulo {
+	margin-top: 10px;
+	justify-content: center;
+}
+
+.entrada {
+	margin: 5% 0;
+}
+
+.botao {
+
+}
