@@ -12,4 +12,4 @@ Projeto Final do curso Do Zero AO Primeiro Site, ofertado pelo grupo +praTi.
 
 ## Link do Portfolio
 - [Meu Portfolio](https://github.com/evertonriquetti/ProjetoSiteFinal/) :vulcan_salute:
-## UI no Figma
+
